@@ -9,7 +9,7 @@ const ProjcetData = [
     imgsrc: pro1,
     title: "Ecommerce Website in MERN",
     text: "This website design is about to my social media network and also you can get information to click view btn",
-    view: "https://github.com/viditjoshi",
+    view: "https://ecommere-jewellery-site-frontend.vercel.app",
   },
   {
     imgsrc: pro2,
